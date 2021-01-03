@@ -1,9 +1,14 @@
 .container{
     li{
         list-style: none;
-        margin-bottom: 10px;
+       
     }
     a{
-        margin-bottom: 5px;
+        display: block;
+        border: 2px solid #ffffff;
+        padding: 10px;
+        margin-bottom: 15px;
+        text-decoration: none;
+        color:black;
     }
 }
