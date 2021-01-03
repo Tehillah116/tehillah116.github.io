@@ -1,1 +1,32 @@
+.nav-bar {
+  background-color: blueviolet;
+}
 
+.nav-bar li {
+  list-style: none;
+  display: inline;
+  margin-right: 1rem;
+  margin-top: 10rem;
+}
+
+.nav-bar li a {
+  color: white;
+}
+
+img {
+  width: 150px;
+  margin-left: 1rem;
+}
+
+.web-logo {
+  height: 175px;
+  width: 175px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.social-media {
+  display: block;
+}
+/*# sourceMappingURL=main.css.map */
