@@ -2,5 +2,11 @@
 @import "nav-bar";
 @import "header";
 @import "social-media";
-@import "buttons"
+@import "buttons";
+
+.social-media{
+    a{
+        text-decoration-color: white;
+    }
+}
 
