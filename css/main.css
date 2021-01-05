@@ -22,6 +22,7 @@ body {
 
 body h3 {
   color: white;
+  margin-right: 1rem;
 }
 
 .nav-bar {
@@ -58,6 +59,7 @@ header {
 
 .social-media {
   display: block;
+  text-decoration: none;
 }
 
 .container {
@@ -67,6 +69,11 @@ header {
 
 .container li {
   list-style: none;
+}
+
+.container .youtube:hover {
+  background-color: whitesmoke;
+  color: red;
 }
 
 .container a {
@@ -79,6 +86,7 @@ header {
   background-color: white;
   margin-right: 70px;
   margin-left: 30px;
+  border-radius: 30px;
 }
 
 .social-media a {
